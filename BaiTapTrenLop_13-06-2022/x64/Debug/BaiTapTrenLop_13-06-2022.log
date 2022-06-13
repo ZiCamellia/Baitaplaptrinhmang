@@ -1,0 +1,10 @@
+﻿  BaiTapTrenLop_13-06-2022.cpp
+C:\Users\duy01\source\repos\BaiTapTrenLop_13-06-2022\BaiTapTrenLop_13-06-2022.cpp(23,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\BaiTapTrenLop_13-06-2022\BaiTapTrenLop_13-06-2022.cpp(45,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\BaiTapTrenLop_13-06-2022\BaiTapTrenLop_13-06-2022.cpp(51,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\duy01\source\repos\BaiTapTrenLop_13-06-2022\BaiTapTrenLop_13-06-2022.cpp(97,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+C:\Users\duy01\source\repos\BaiTapTrenLop_13-06-2022\BaiTapTrenLop_13-06-2022.cpp(97,16): message : consider using '%lld' in the format string
+C:\Users\duy01\source\repos\BaiTapTrenLop_13-06-2022\BaiTapTrenLop_13-06-2022.cpp(97,16): message : consider using '%Id' in the format string
+C:\Users\duy01\source\repos\BaiTapTrenLop_13-06-2022\BaiTapTrenLop_13-06-2022.cpp(97,16): message : consider using '%I64d' in the format string
+C:\Users\duy01\source\repos\BaiTapTrenLop_13-06-2022\BaiTapTrenLop_13-06-2022.cpp(77): warning C4715: 'ClientThread': not all control paths return a value
+  BaiTapTrenLop_13-06-2022.vcxproj -> C:\Users\duy01\source\repos\BaiTapTrenLop_13-06-2022\x64\Debug\BaiTapTrenLop_13-06-2022.exe
